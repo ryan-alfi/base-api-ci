@@ -19,7 +19,7 @@ class Database extends CI_Model
 
 	function __construct()
 	{
-		parent:: __construct();
+		// parent:: __construct();
 	}
 
 	public function setTable($tableName){
